@@ -1,0 +1,5 @@
+opencv-python
+numpy
+mediapipe
+vmcp[osc4py3]
+osc4py3
